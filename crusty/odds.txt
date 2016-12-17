@@ -1,0 +1,324 @@
+Running simulation with bound 3
+t19389012
+w0
+l19389012
+r0
+0.0
+Running simulation with bound 4
+t19389012
+w0
+l19389012
+r0
+0.0
+Running simulation with bound 5
+t19389012
+w0
+l19389012
+r0
+0.0
+Running simulation with bound 6
+t19389012
+w0
+l19389012
+r0
+0.0
+Running simulation with bound 7
+t19389012
+w0
+l19389012
+r0
+0.0
+Running simulation with bound 8
+t19389012
+w0
+l19389012
+r0
+0.0
+Running simulation with bound 9
+t19389012
+w0
+l19389012
+r0
+0.0
+Running simulation with bound 10
+t19389012
+w0
+l19389012
+r0
+0.0
+Running simulation with bound 11
+t19389012
+w44682
+l19344330
+r0
+0.0023045011
+Running simulation with bound 12
+t19389012
+w226081
+l19162931
+r0
+0.011660264
+Running simulation with bound 13
+t19389012
+w674061
+l18714951
+r0
+0.034765102
+Running simulation with bound 14
+t19389012
+w1535102
+l17853910
+r0
+0.07917381
+Running simulation with bound 15
+t19389012
+w3065225
+l16323787
+r0
+0.15809083
+Running simulation with bound 16
+t19389012
+w5529296
+l13859716
+r0
+0.28517678
+Running simulation with bound 17
+t19389012
+w7691229
+l11697783
+r0
+0.3966798
+Running simulation with bound 18
+t19389012
+w9193172
+l10195840
+r0
+0.4741434
+Running simulation with bound 19
+t19389012
+w9622231
+l9766781
+r0
+0.4962724
+Running simulation with bound 20
+t19389012
+w8577811
+l10811201
+r0
+0.4424058
+Running simulation with bound 3
+t19389012
+w0
+l19389012
+r0
+Win percentage 0.0
+Running simulation with bound 4
+t19389012
+w0
+l19389012
+r0
+Win percentage 0.0
+Running simulation with bound 5
+t19389012
+w0
+l19389012
+r0
+Win percentage 0.0
+Running simulation with bound 6
+t19389012
+w0
+l19389012
+r0
+Win percentage 0.0
+Running simulation with bound 7
+t19389012
+w0
+l19389012
+r0
+Win percentage 0.0
+Running simulation with bound 8
+t19389012
+w0
+l19389012
+r0
+Win percentage 0.0
+Running simulation with bound 9
+t19389012
+w0
+l19389012
+r0
+Win percentage 0.0
+Running simulation with bound 10
+t19389012
+w0
+l19389012
+r0
+Win percentage 0.0
+Running simulation with bound 11
+t19389012
+w44441
+l19344571
+r0
+Win percentage 0.0022920715
+Running simulation with bound 12
+t19389012
+w225216
+l19163796
+r0
+Win percentage 0.011615651
+Running simulation with bound 13
+t19389012
+w673694
+l18715318
+r0
+Win percentage 0.034746174
+Running simulation with bound 14
+t19389012
+w1536972
+l17852040
+r0
+Win percentage 0.07927026
+Running simulation with bound 15
+t19389012
+w3063321
+l16325691
+r0
+Win percentage 0.15799263
+Running simulation with bound 16
+t19389012
+w5529819
+l13859193
+r0
+Win percentage 0.28520375
+Running simulation with bound 17
+t19389012
+w7692247
+l11696765
+r0
+Win percentage 0.39673227
+Running simulation with bound 18
+t19389012
+w9193267
+l10195745
+r0
+Win percentage 0.4741483
+Running simulation with bound 19
+t19389012
+w9625462
+l9763550
+r0
+Win percentage 0.496439
+Running simulation with bound 20
+t19389012
+w8575031
+l10813981
+r0
+Win percentage 0.4422624
+Running simulation with bound 3
+t19389012
+w0
+l19389012
+r0
+Win percentage 0.0
+Running simulation with bound 4
+t19389012
+w0
+l19389012
+r0
+Win percentage 0.0
+Running simulation with bound 5
+t19389012
+w0
+l19389012
+r0
+Win percentage 0.0
+Running simulation with bound 6
+t19389012
+w0
+l19389012
+r0
+Win percentage 0.0
+Running simulation with bound 7
+t19389012
+w0
+l19389012
+r0
+Win percentage 0.0
+Running simulation with bound 8
+t19389012
+w0
+l19389012
+r0
+Win percentage 0.0
+Running simulation with bound 9
+t19389012
+w0
+l19389012
+r0
+Win percentage 0.0
+Running simulation with bound 10
+t19389012
+w0
+l19389012
+r0
+Win percentage 0.0
+Running simulation with bound 11
+t19389012
+w45053
+l19343959
+r0
+Win percentage 0.0023236356
+Running simulation with bound 12
+t19389012
+w225698
+l19163314
+r0
+Win percentage 0.0116405105
+Running simulation with bound 13
+t19389012
+w676171
+l18712841
+r0
+Win percentage 0.03487393
+Running simulation with bound 14
+t19389012
+w1536578
+l17852434
+r0
+Win percentage 0.07924994
+Running simulation with bound 15
+t19389012
+w3059989
+l16329023
+r0
+Win percentage 0.15782078
+Running simulation with bound 16
+t19389012
+w5529169
+l13859843
+r0
+Win percentage 0.28517023
+Running simulation with bound 17
+t19389012
+w7690995
+l11698017
+r0
+Win percentage 0.39666772
+Running simulation with bound 18
+t19389012
+w9189226
+l10199786
+r0
+Win percentage 0.47393987
+Running simulation with bound 19
+t19389012
+w9623824
+l9765188
+r0
+Win percentage 0.49635452
+Running simulation with bound 20
+t19389012
+w8578809
+l10810203
+r0
+Win percentage 0.44245726
